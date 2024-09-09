@@ -3,4 +3,3 @@ matplotlib
 h5py
 torch
 torchvision
-PyQt5
